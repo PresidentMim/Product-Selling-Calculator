@@ -1,10 +1,9 @@
-import Uparry from "./updated array"
+import Profitcalculator from './profitcalculator'
 function App() {
-
 
   return (
     <>
-    <Uparry/>
+    <Profitcalculator/>
     </>
   )
 }
